@@ -13,7 +13,7 @@ This project is an introduction into animations using the `react-motion` library
 
 #### Resources:
 - https://github.com/chenglou/react-motion
-- https://www.pshrmn.com/tutorials/react/animation/react-motion/
+- https://github.com/pshrmn/notes/blob/master/react/animation.md
 - Follow this scrimba cast to learn about animations with the Motion component from the react-motion library: https://scrimba.com/casts/c67ygAr
 
 ### Instructions:
